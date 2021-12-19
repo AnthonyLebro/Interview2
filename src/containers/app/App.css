@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro');
+
+body {
+  font-family: 'Crimson Pro', sans-serif;
+  font-size: 18px;
+  color: red ;
+  background-color: #fafafa;
+
+}
+
+.App {
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: 'Crimson Pro', sans-serif;
+}
+
+.App-header {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: grey;
+}
+
+
